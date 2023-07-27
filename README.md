@@ -1,5 +1,7 @@
 # Sales Analysis Project
 
+![image](https://github.com/simplyEmmanuel/ExcelDataProjects/assets/57048981/4a59d05c-40a0-4581-9278-b349b0a8d89b)
+
 Welcome to the Sales Analysis project. In this repository, we dive deep into the sales data of a multinational company, uncovering key insights and trends that drive its success. Our primary dataset has been processed, cleaned, and treated to generate pivot tables that make reporting a breeze.
 
 ## Table of Contents
